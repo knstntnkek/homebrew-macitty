@@ -1,6 +1,6 @@
 cask "macitty" do
-  version "0.8"
-  sha256 "6e798f1020abb7d47fb5a1c9e33d3baa87ee6f8aa4325e01f2fd0cba776739e2"
+  version "0.8.1"
+  sha256 "d55027672e4d0b53333a213ff46aa90ca349d05ef57865fef503b5fb26194539"
 
   url "https://macitty.app/MaciTTY-#{version}.dmg"
   name "MaciTTY"
